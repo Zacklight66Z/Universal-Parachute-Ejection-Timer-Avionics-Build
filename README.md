@@ -24,14 +24,14 @@ If the jack is reconected, the process restarts, green led solid, servo position
 
 |
 ├── Layout exemples/
-|  ├── Layout_round/
-|  |  ├── Layout_round.pdf
-|  |  ├── Layout_round.json
-|  |  └── Layout_round.pcbdoc
-|  └── Layout rectangular/
-|    ├── Layout_rectangular.pdf
-|    ├── Layout_rectangular.json
-|    └── Layout_rectangular.pcbdoc
+|  ├── Round/
+|  |  ├── Layout.pdf
+|  |  ├── Layout.json
+|  |  └── Layout.pcbdoc
+|  └── Rectangular/
+|    ├── Layout.pdf
+|    ├── Layout.json
+|    └── Layout.pcbdoc
 ├── Schematic/
 |  ├── Schematic.pdf
 |  ├── Schematic.json
@@ -39,5 +39,8 @@ If the jack is reconected, the process restarts, green led solid, servo position
 └── Sequenceur_Universel.ino
 
 ```
-
+### Files types
+- **PDF** : meant for quick visualization
+- **json** : to be used with EasyEDA PCB editor
+- **SCHDOC** : to be used with Altium Designer
 
