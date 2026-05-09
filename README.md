@@ -24,16 +24,16 @@ If the jack is reconected, the process restarts, green led solid, servo position
 
 |
 ├── Layout exemples/
-|  ├── Round/
+|  ├── Rectangular/
 |  |  ├── Layout.pdf
 |  |  ├── Layout.json
 |  |  ├── Layout.pcbdoc
-|  |  └── Layout_round_gerber.zip
-|  └── Rectangular/
+|  |  └── Layout_rectangular_gerber.zip
+|  └── Round/
 |    ├── Layout.pdf
 |    ├── Layout.json
 |    ├── Layout.pcbdoc
-|    └── Layout_rectangular_gerber.zip
+|    └── Layout_round_gerber.zip
 ├── Schematic/
 |  ├── Schematic.pdf
 |  ├── Schematic.json
