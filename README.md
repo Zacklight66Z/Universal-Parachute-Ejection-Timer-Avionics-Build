@@ -9,6 +9,7 @@ This setup is made to use :
 - A buzzer
 - A servo
 - An alimentation jack
+- A MP1584EN Buck convertor
 - Various resistances of different values
 
 When the board is powered up and the jack connected, the  green led turns on solid, servo rotates in position 1 and buzzer blinks slowly.
