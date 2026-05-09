@@ -38,6 +38,7 @@ If the jack is reconected, the process restarts, green led solid, servo position
 |  ├── Schematic.pdf
 |  ├── Schematic.json
 |  └── Schematic.schdoc
+├── README.md
 └── Sequenceur_Universel.ino
 
 ```
